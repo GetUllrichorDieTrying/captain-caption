@@ -9,3 +9,5 @@ All credit goes to:
 - Yu-Wei Hsieh
 - Vinny Shipley
 - Dylan Ullrich
+
+The original organization and repositories can be viewed [here](https://github.com/captain-caption).
