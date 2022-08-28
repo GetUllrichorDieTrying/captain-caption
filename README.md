@@ -1,6 +1,6 @@
 # captain-caption
 
-Group project monorepo.
+This repository serves as a personal copy of a group project.
 
 All credit goes to:
 
